@@ -1,5 +1,3 @@
-local bannedGuys = {
+return {
   "564638016"
 }
-
-return bannedGuys
